@@ -10,3 +10,4 @@
 
 ## Topics: 
 ### session 1: variables
+### session 2: Data Types and Operators
