@@ -11,3 +11,4 @@
 ## Topics: 
 ### session 1: variables
 ### session 2: Data Types and Operators
+### session 3: Conditional Statement
