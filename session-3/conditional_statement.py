@@ -11,15 +11,15 @@ else:
     <statement>
 """
 
-# age = float(input('Enter your age: '))
+age = float(input('Enter your age: '))
 
-# if (age > 18): # <expr>
-#     print('You are adult') # <statement>
+if (age > 18): # <expr>
+    print('You are adult') # <statement>
 
-# if age > 18: # <expr>
-#     print('You are adult') # <statement>
-# else:
-#     print('You are under the legal age') # <statement>
+if age > 18: # <expr>
+    print('You are adult') # <statement>
+else:
+    print('You are under the legal age') # <statement>
 
 
 # score = float(input('Enter your math score: '))
@@ -35,9 +35,9 @@ else:
 # first_name = input('Enter your first name: ')
 # last_name = input('Enter your last name: ')
 
-names = [
-    'Mahdi', 'Ali', 'Fatemeh', 'Zahra', 'Zare', 'Alavie', 'Hasanie'
-]
+# names = [
+#     'Mahdi', 'Ali', 'Fatemeh', 'Zahra', 'Zare', 'Alavie', 'Hasanie'
+# ]
 
 # if (first_name in names) or (last_name in names):
 #     first_name, last_name = first_name.capitalize(), last_name.capitalize()
@@ -64,14 +64,3 @@ names = [
 
 # x = float(input('Enter a number: '))
 # print('gt 10') if x > 10 else print('lt 10')
-
-if 'هوا بارانی بود':
-    if 'هوا سرد هم بود':
-        print('A')
-
-a = 'Mahdi'
-if 'i' in a:
-    print('i')
-
-num = 25555
-if 2 in num: print(2)
