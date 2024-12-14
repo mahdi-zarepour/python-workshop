@@ -12,3 +12,6 @@
 ### session 1: variables
 ### session 2: Data Types and Operators
 ### session 3: Conditional Statement
+### session 4: List
+### session 5: while loop
+### session 6: List methods
