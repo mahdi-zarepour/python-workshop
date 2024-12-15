@@ -7,6 +7,7 @@
 ### Links:
 #### [python download link](https://download.uk.ac.ir/)
 #### [vscode download link](https://download.uk.ac.ir/)
+### [session 6 video](https://drive.google.com/drive/folders/1d7LpVIgesd-OFYPZx0C-ZFYjYRrvXKu6?usp=drive_link)
 
 ## Topics: 
 ### session 1: variables
