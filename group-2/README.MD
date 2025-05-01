@@ -11,3 +11,4 @@
 ## Topics: 
 ### session 1: Variables & Data Types
 ### session 2: Operators & Conditional Statement
+### session 3: Data Structure & While Loop
